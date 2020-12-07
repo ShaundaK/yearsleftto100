@@ -1,3 +1,5 @@
+#User enters name and age. Message prints out telling the user how many years they have left until 100. 
+
 def users_age(years_left):
     if years_left >= 99:
         number = 100 - years_left
